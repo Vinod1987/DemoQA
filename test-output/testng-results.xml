@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="23678" started-at="2018-06-18T15:20:46Z" finished-at="2018-06-18T15:21:09Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="23678" started-at="2018-06-18T15:20:46Z" finished-at="2018-06-18T15:21:09Z">
+      <class name="Testpages.SampleTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:Testpages.SampleTest@4f933fd1]" name="setup" is-config="true" duration-ms="10277" started-at="2018-06-18T20:50:46Z" finished-at="2018-06-18T20:50:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="GoogleHome()[pri:0, instance:Testpages.SampleTest@4f933fd1]" name="GoogleHome" duration-ms="12017" started-at="2018-06-18T20:50:56Z" finished-at="2018-06-18T20:51:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GoogleHome -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:Testpages.SampleTest@4f933fd1]" name="cleanUp" is-config="true" duration-ms="1335" started-at="2018-06-18T20:51:08Z" finished-at="2018-06-18T20:51:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+      </class> <!-- Testpages.SampleTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
